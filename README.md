@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently a PhD student with the [Methods for Big Data](https://kleinlab-statml.github.io/) group at Karlsruhe Institute of Technology.
+Independent dumbass.
 
 ## Research interests
 - Bayesian statistics
